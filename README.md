@@ -13,4 +13,6 @@ I used two cheap lanyards with lobster clasps, and tied them together at their l
 
 Otherwise use "15mm 3M VHB double-sided sticky round mounting pads" which I could find for about 40 cents each
 
-To find the lanyards look for: "2.56 inch lanyard lobster cellphone clasp" for around 6 cents each
+To find the lanyards look for: "2.56 inch lanyard lobster cellphone clasp" for around 6 cents each. A similar option can be found at this Amazon [link](https://www.amazon.com/gp/product/B0B1VWPZDJ) (non-affiliate).
+
+If 15mm is too large, a 10mm version has been added. An example of 10mm adhesive dots that work can be found at this Amazon [link](https://www.amazon.com/dp/B092ZV88CM) (non-affiliate).
